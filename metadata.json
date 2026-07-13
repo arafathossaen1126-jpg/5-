@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Project Tracker",
+  "description": "Premium multi-project and expense tracker with local Room database and agro theme inspired UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
